@@ -29,7 +29,14 @@ export const Menu = () => {
         >
           Katakana
         </button>
-        
+        <div>
+          <p>
+            Made with 💙 by{" "}
+            <a href="/" target="_blank">
+              Barry Anil
+            </a>
+          </p>
+        </div>
       </div>
       <div
         className={`scores ${
